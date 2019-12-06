@@ -3,6 +3,7 @@ This is a repository for the paper and poster of the NeurIPS 2019 paper: Accurat
 Code forthcoming.
 
 If you find this repository or paper useful for your work, please cite:
+```yaml
 @inproceedings{rajendran2019accurate,
   title={Accurate Layerwise Interpretable Competence Estimation},
   author={Rajendran, Vickram and LeVine, William},
@@ -10,5 +11,6 @@ If you find this repository or paper useful for your work, please cite:
   pages={13981--13991},
   year={2019}
 }
+```
 
 You can contact the authors by email at {vickram.rajendran, william.levine}@jhuapl.edu !
